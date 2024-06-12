@@ -1,0 +1,20 @@
+
+target_obsdate: "190308"
+target_obsnum: 82
+target_beamnum: 0
+target_name: "3C147_drift"
+
+polcal_obsdate: "190309"
+polcal_obsnum: 042
+polcal_beamnum: 0
+polcal_name: "3C286"
+
+fluxcal_obsdate: "190309"
+fluxcal_obsnum: 042
+fluxcal_beamnum: 0
+fluxcal_name: "3D286"
+
+
+irods:
+  class: Directory
+  path: /home/dijkema/.irods

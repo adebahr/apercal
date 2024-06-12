@@ -1,0 +1,2 @@
+class ApercalException(Exception):
+    pass
